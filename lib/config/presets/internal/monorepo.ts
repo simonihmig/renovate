@@ -552,6 +552,7 @@ const patternGroups = {
   embroider: '^@embroider/',
   forge: '^@forge/',
   fullcalendar: '^@fullcalendar/',
+  glint: '^@glint/',
   hotchocolate: '^HotChocolate\\.',
   'prometheus-simpleclient': '^io.prometheus:simpleclient',
   // Can't specify the russh repo (https://github.com/warp-tech/russh) in repoGroups because parts
